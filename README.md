@@ -1,44 +1,45 @@
-# Hi, I'm Kirill
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Kirill - backend and automation developer" width="100%" />
+</p>
 
-I build practical software with a focus on clean interfaces, reliable automation, and useful developer tools.
+<h1 align="center">Hi, I'm Kirill</h1>
 
+<p align="center">
+  I build practical software with a focus on backend logic, automation, APIs, and clean user-facing tools.
+</p>
 
+<p align="center">
+  <a href="https://github.com/KirCurs">GitHub</a> -
+  <a href="https://t.me/user190074">Telegram</a> -
+  <a href="mailto:kirya.gib@gmail.com">Email</a>
+</p>
 
 ## About Me
 
-- Currently working on developer tools and automation projects
-- Learning deeper backend engineering, APIs, and clean architecture
-- Interested in Python, JavaScript, open source, and product-focused engineering
-- Open to collaborating on useful tools, bots, dashboards, and web apps
+- I work with Python, Java, SQL, and JavaScript.
+- I like building useful tools, bots, dashboards, and API-based projects.
+- I am interested in backend engineering, clean architecture, and practical automation.
+- I keep projects simple, readable, and focused on real use.
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Backend | Frontend | Database | Tools |
+| --- | --- | --- | --- |
+| Python, Java, Django | JavaScript, HTML | SQL, PostgreSQL | Git, GitHub, REST APIs |
 
-## Featured Work
+## Featured Project
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Course Advisor](https://github.com/KirCurs/project-two) | The system analyzes a student's profile, academic score, target IT direction, multi-factor test results, and a catalog of free educational resources. Based on these signals, it generates personalized course recommendations, calculates a ranking score, and predicts the probability of successful course completion.| Django;PostgreSQL;HTML |
+| [Course Advisor](https://github.com/KirCurs/project-two) | Analyzes a student's profile, academic score, target IT direction, test results, and free learning resources to generate personalized course recommendations and predict completion probability. | Django, PostgreSQL, HTML |
 
-## GitHub Stats
+## GitHub
 
-- GitHub profile: [github.com/KirCurs](https://github.com/KirCurs)
-- Public repositories: [github.com/KirCurs?tab=repositories](https://github.com/KirCurs?tab=repositories)
-- Main stack: Python, Java, SQL, JavaScript
-
-## Activity
-
-- Recent GitHub activity: [github.com/KirCurs?tab=overview](https://github.com/KirCurs?tab=overview)
-- Contributions and projects are visible directly on my GitHub profile.
+- Profile: [github.com/KirCurs](https://github.com/KirCurs)
+- Repositories: [github.com/KirCurs?tab=repositories](https://github.com/KirCurs?tab=repositories)
+- Main focus: backend projects, automation, API integrations, and learning platforms
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-KirCurs-181717?style=for-the-badge&logo=github)](https://github.com/KirCurs)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user19007)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirya.gib@gmail.com)
+- Telegram: [@user190074](https://t.me/user190074)
+- Email: [kirya.gib@gmail.com](mailto:kirya.gib@gmail.com)

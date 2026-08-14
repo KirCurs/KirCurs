@@ -1,0 +1,52 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kirill GitHub profile header</title>
+  <desc id="desc">A dark developer profile banner for Kirill with backend, automation, APIs, Python, Java, SQL, and JavaScript text.</desc>
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="1030" cy="70" r="120" fill="#238636" opacity="0.14"/>
+  <circle cx="1120" cy="270" r="150" fill="#1F6FEB" opacity="0.16"/>
+  <circle cx="140" cy="300" r="120" fill="#F78166" opacity="0.10"/>
+
+  <g opacity="0.26">
+    <path d="M740 82H1090" stroke="#30363D" stroke-width="2"/>
+    <path d="M790 126H1140" stroke="#30363D" stroke-width="2"/>
+    <path d="M760 170H1110" stroke="#30363D" stroke-width="2"/>
+    <path d="M820 214H1170" stroke="#30363D" stroke-width="2"/>
+    <path d="M780 258H1130" stroke="#30363D" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(80 74)">
+    <rect width="520" height="212" rx="18" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+    <circle cx="34" cy="34" r="7" fill="#F85149"/>
+    <circle cx="58" cy="34" r="7" fill="#D29922"/>
+    <circle cx="82" cy="34" r="7" fill="#3FB950"/>
+    <text x="34" y="82" fill="#7EE787" font-family="SFMono-Regular, Consolas, monospace" font-size="24">$ whoami</text>
+    <text x="34" y="124" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Kirill</text>
+    <text x="34" y="164" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="22">Backend - Automation - APIs</text>
+  </g>
+
+  <g transform="translate(670 92)">
+    <text x="0" y="0" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Building useful software</text>
+    <text x="0" y="44" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="22">Clean logic, readable code, practical tools.</text>
+
+    <g transform="translate(0 86)">
+      <rect width="106" height="38" rx="19" fill="#1F6FEB"/>
+      <text x="53" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Python</text>
+    </g>
+    <g transform="translate(122 86)">
+      <rect width="82" height="38" rx="19" fill="#8957E5"/>
+      <text x="41" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Java</text>
+    </g>
+    <g transform="translate(220 86)">
+      <rect width="72" height="38" rx="19" fill="#238636"/>
+      <text x="36" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">SQL</text>
+    </g>
+    <g transform="translate(308 86)">
+      <rect width="124" height="38" rx="19" fill="#D29922"/>
+      <text x="62" y="25" fill="#0D1117" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">JavaScript</text>
+    </g>
+
+    <text x="0" y="178" fill="#C9D1D9" font-family="SFMono-Regular, Consolas, monospace" font-size="20">github.com/KirCurs</text>
+  </g>
+</svg>
