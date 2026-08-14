@@ -28,13 +28,14 @@ I build practical software with a focus on clean interfaces, reliable automation
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirCurs&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirCurs&layout=compact&theme=transparent&hide_border=true)
+- GitHub profile: [github.com/KirCurs](https://github.com/KirCurs)
+- Public repositories: [github.com/KirCurs?tab=repositories](https://github.com/KirCurs?tab=repositories)
+- Main stack: Python, Java, SQL, JavaScript
 
 ## Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KirCurs&theme=transparent&hide_border=true)
+- Recent GitHub activity: [github.com/KirCurs?tab=overview](https://github.com/KirCurs?tab=overview)
+- Contributions and projects are visible directly on my GitHub profile.
 
 ## Contact
 
