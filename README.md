@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Kirill - backend and automation developer" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Kirill - Go backend developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Kirill</h1>
 
 <p align="center">
-  I build practical software with a focus on backend logic, automation, APIs, and clean user-facing tools.
+  Go backend developer building practical tools, APIs, and automation.
 </p>
 
 <p align="center">
@@ -16,28 +16,32 @@
 
 ## About Me
 
-- I work with Python, Java, SQL, and JavaScript.
-- I like building useful tools, bots, dashboards, and API-based projects.
-- I am interested in backend engineering, clean architecture, and practical automation.
-- I keep projects simple, readable, and focused on real use.
+- Go is my primary language; I also build projects with Python and Django.
+- I focus on backend services, APIs, automation, and useful user-facing tools.
+- I value clear architecture, maintainable code, and software built for real use.
 
 ## Tech Stack
 
-| Backend | Frontend | Database | Tools |
-| --- | --- | --- | --- |
-| Python, Java, Django | JavaScript, HTML | SQL, PostgreSQL | Git, GitHub, REST APIs |
+| Area | Technologies |
+| --- | --- |
+| **Primary language** | **Go** |
+| Backend | Go, Python, Django, REST APIs |
+| Frontend | JavaScript, HTML, CSS |
+| Data | PostgreSQL, SQL |
+| Tools | Docker, Git, GitHub |
 
-## Featured Project
+## Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Course Advisor](https://github.com/KirCurs/project-two) | Analyzes a student's profile, academic score, target IT direction, test results, and free learning resources to generate personalized course recommendations and predict completion probability. | Django, PostgreSQL, HTML |
+| [RatingDon](https://github.com/KirCurs/DonRating) | Tablet-based guest feedback for Don Resort, with a receptionist dashboard and live device status. | Go, PostgreSQL, Docker |
+| [CourseAdvisor](https://github.com/KirCurs/CourseAdvisor) | Recommends free learning courses using a student's interests, skills, and assessment results. | Python, Django, PostgreSQL |
 
 ## GitHub
 
 - Profile: [github.com/KirCurs](https://github.com/KirCurs)
 - Repositories: [github.com/KirCurs?tab=repositories](https://github.com/KirCurs?tab=repositories)
-- Main focus: backend projects, automation, API integrations, and learning platforms
+- Main focus: Go backend development, APIs, and practical automation
 
 ## Contact
 
