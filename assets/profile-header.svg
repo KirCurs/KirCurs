@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Kirill GitHub profile header</title>
-  <desc id="desc">A dark developer profile banner for Kirill with backend, automation, APIs, Python, Java, SQL, and JavaScript text.</desc>
+  <desc id="desc">A dark developer profile banner for Kirill, focused on Go backend development, APIs, automation, Python, SQL, and JavaScript.</desc>
   <rect width="1200" height="360" rx="28" fill="#0D1117"/>
   <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#30363D" stroke-width="2"/>
 
@@ -27,22 +27,22 @@
   </g>
 
   <g transform="translate(670 92)">
-    <text x="0" y="0" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Building useful software</text>
-    <text x="0" y="44" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="22">Clean logic, readable code, practical tools.</text>
+    <text x="0" y="0" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">Go backend engineering</text>
+    <text x="0" y="44" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="22">APIs, automation, practical tools.</text>
 
     <g transform="translate(0 86)">
-      <rect width="106" height="38" rx="19" fill="#1F6FEB"/>
-      <text x="53" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Python</text>
+      <rect width="112" height="38" rx="19" fill="#00ADD8"/>
+      <text x="56" y="25" fill="#0D1117" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">Go / PRIMARY</text>
     </g>
-    <g transform="translate(122 86)">
-      <rect width="82" height="38" rx="19" fill="#8957E5"/>
-      <text x="41" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Java</text>
+    <g transform="translate(126 86)">
+      <rect width="104" height="38" rx="19" fill="#1F6FEB"/>
+      <text x="52" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Python</text>
     </g>
-    <g transform="translate(220 86)">
+    <g transform="translate(244 86)">
       <rect width="72" height="38" rx="19" fill="#238636"/>
       <text x="36" y="25" fill="#FFFFFF" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">SQL</text>
     </g>
-    <g transform="translate(308 86)">
+    <g transform="translate(330 86)">
       <rect width="124" height="38" rx="19" fill="#D29922"/>
       <text x="62" y="25" fill="#0D1117" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800">JavaScript</text>
     </g>
